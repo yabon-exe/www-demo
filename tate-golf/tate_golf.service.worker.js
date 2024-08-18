@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1723981099|236775182';
+const CACHE_VERSION = '1723995510|2830173224';
 /** @type {string} */
 const CACHE_PREFIX = 'tate_golf-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
